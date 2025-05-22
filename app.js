@@ -1,1 +1,3 @@
-const arr = []
+const arr = [
+    {name :ahsan}
+]
